@@ -71,4 +71,4 @@ My work revolves around **making AI usable inside real products**, not just runn
 
 ## 📫 Connect With Me
 - **LinkedIn:** *https://www.linkedin.com/in/taimoormughal*  
-- **GitHub:** *https://github.com/taimoormughall*  
+- **GitHub:** *https://github.com/Taimoor-Mughal*  

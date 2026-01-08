@@ -49,7 +49,7 @@ My work revolves around **making AI usable inside real products**, not just runn
 - Research & development oversight
 
 ### **🔹 Tailgating Detection System**
-- YOLO-based vehicle detection  
+- YOLO-based object detection  
 - ByteTrack tracking for accuracy  
 - Integrated into access control systems  
 
